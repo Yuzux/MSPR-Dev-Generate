@@ -1,1 +1,3 @@
-
+pipeline {
+  agent none
+}
